@@ -1,0 +1,4 @@
+cld200-d06@education.cloud.sapspecVersion: "2.5"
+metadata:
+  name: risk
+type: application
